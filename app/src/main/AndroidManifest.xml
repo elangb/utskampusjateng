@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.elang.ustpersiapan">
+    package="com.elang.uts">
 
     <application
         android:allowBackup="true"
@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ustpersiapan">
         <activity
-            android:name=".DetailActivity"
+            android:name="com.elang.uts.DetailActivity"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.elang.uts.MainActivity"
             android:exported="true" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name="com.elang.uts.SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

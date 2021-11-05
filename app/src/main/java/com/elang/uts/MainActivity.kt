@@ -1,4 +1,4 @@
-package com.elang.ustpersiapan
+package com.elang.uts
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

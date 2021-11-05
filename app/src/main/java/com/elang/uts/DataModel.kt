@@ -1,4 +1,4 @@
-package com.elang.ustpersiapan
+package com.elang.uts
 
 data class DataModel (
     val gambar: Int,

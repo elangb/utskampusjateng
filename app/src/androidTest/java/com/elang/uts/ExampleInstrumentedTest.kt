@@ -1,4 +1,4 @@
-package com.elang.ustpersiapan
+package com.elang.uts
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
